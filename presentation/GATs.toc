@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{Neural Networks for Graphs}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Problem Setup}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Graph Neural Networks}{8}{0}{1}
+\beamer@sectionintoc {2}{GATs}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{GAT Architecture}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Visual Explanation}{11}{0}{2}
+\beamer@subsectionintoc {2}{3}{Attention Mechanisms}{11}{0}{2}
+\beamer@sectionintoc {3}{Applications}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Improvements over previous methods}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{Results using GATs}{18}{0}{3}
+\beamer@sectionintoc {4}{Discussion}{23}{0}{4}
+\beamer@subsectionintoc {4}{1}{Limitations}{23}{0}{4}
+\beamer@subsectionintoc {4}{2}{(Related Work)}{23}{0}{4}
+\beamer@sectionintoc {5}{References}{28}{0}{5}
