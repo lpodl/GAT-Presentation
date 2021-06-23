@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  22 JUN 2021 22:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  23 JUN 2021 22:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/GATs.tex"
-(d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/GATs.tex
+**"d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.tex"
+(d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2020-12-07> xparse <2020-03-03> (c:/texlive/2020/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2020/11/26 v3.60 A class for typesetting presentations
@@ -746,7 +746,7 @@ File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count346
 \l__pdf_internal_box=\box77
-) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/GATs.aux
+) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.aux
 
 LaTeX Warning: Label `' multiply defined.
 
@@ -836,7 +836,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 55.
 LaTeX Info: Redefining \pageref on input line 55.
 LaTeX Info: Redefining \nameref on input line 55.
- (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/GATs.out) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/GATs.out)
+ (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.out) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.out)
 \@outlinefile=\write5
 \openout5 = `GATs.out'.
 
@@ -855,7 +855,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/GATs.nav) [1{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.nav) [1{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 <img/traffic.png, id=90, 414.53882pt x 293.61179pt>
@@ -883,7 +883,7 @@ Package pdftex.def Info: img/coritcal_mesh.png  used on input line 86.
 (pdftex.def)             Requested size: 156.48431pt x 71.1284pt.
  [2
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/traffic.png> <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/Caffeine.jpg> <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/coritcal_mesh.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/traffic.png> <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/Caffeine.jpg> <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/coritcal_mesh.png>]
 <img/van_gogh.jpg, id=104, 219.7008pt x 246.9225pt>
 File: img/van_gogh.jpg Graphic file (type jpg)
 <use img/van_gogh.jpg>
@@ -911,7 +911,7 @@ Package pdftex.def Info: img/graph_conv_2.png  used on input line 123.
 (pdftex.def)             Requested size: 170.7125pt x 142.26271pt.
  [3
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/van_gogh.jpg>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/van_gogh.jpg>]
 File: img/van_gogh.jpg Graphic file (type jpg)
 <use img/van_gogh.jpg>
 Package pdftex.def Info: img/van_gogh.jpg  used on input line 123.
@@ -934,7 +934,7 @@ Package pdftex.def Info: img/graph_conv_2.png  used on input line 123.
 (pdftex.def)             Requested size: 170.7125pt x 142.26271pt.
  [4
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/van_gogh_1.jpg>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/van_gogh_1.jpg>]
 File: img/van_gogh.jpg Graphic file (type jpg)
 <use img/van_gogh.jpg>
 Package pdftex.def Info: img/van_gogh.jpg  used on input line 123.
@@ -957,7 +957,7 @@ Package pdftex.def Info: img/graph_conv_2.png  used on input line 123.
 (pdftex.def)             Requested size: 170.7125pt x 142.26271pt.
  [5
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/van_gogh_2.jpg>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/van_gogh_2.jpg>]
 File: img/van_gogh.jpg Graphic file (type jpg)
 <use img/van_gogh.jpg>
 Package pdftex.def Info: img/van_gogh.jpg  used on input line 123.
@@ -980,7 +980,7 @@ Package pdftex.def Info: img/graph_conv_2.png  used on input line 123.
 (pdftex.def)             Requested size: 170.7125pt x 142.26271pt.
  [6
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/graph_conv_1.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/graph_conv_1.png>]
 File: img/van_gogh.jpg Graphic file (type jpg)
 <use img/van_gogh.jpg>
 Package pdftex.def Info: img/van_gogh.jpg  used on input line 123.
@@ -1003,7 +1003,7 @@ Package pdftex.def Info: img/graph_conv_2.png  used on input line 123.
 (pdftex.def)             Requested size: 170.7125pt x 142.26271pt.
  [7
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/graph_conv_2.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/graph_conv_2.png>]
 <img/gnn_1.png, id=169, 709.65125pt x 611.28375pt>
 File: img/gnn_1.png Graphic file (type png)
 <use img/gnn_1.png>
@@ -1021,7 +1021,7 @@ Package pdftex.def Info: img/gnn_3.png  used on input line 139.
 (pdftex.def)             Requested size: 199.16661pt x 170.71056pt.
  [8
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/gnn_1.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/gnn_1.png>]
 File: img/gnn_1.png Graphic file (type png)
 <use img/gnn_1.png>
 Package pdftex.def Info: img/gnn_1.png  used on input line 139.
@@ -1036,7 +1036,7 @@ Package pdftex.def Info: img/gnn_3.png  used on input line 139.
 (pdftex.def)             Requested size: 199.16661pt x 170.71056pt.
  [9
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/gnn_2.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/gnn_2.png>]
 File: img/gnn_1.png Graphic file (type png)
 <use img/gnn_1.png>
 Package pdftex.def Info: img/gnn_1.png  used on input line 139.
@@ -1051,7 +1051,7 @@ Package pdftex.def Info: img/gnn_3.png  used on input line 139.
 (pdftex.def)             Requested size: 199.16661pt x 170.71056pt.
  [10
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/gnn_3.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/gnn_3.png>]
 <img/gnn_1_hi.png, id=208, 709.65125pt x 611.28375pt>
 File: img/gnn_1_hi.png Graphic file (type png)
 <use img/gnn_1_hi.png>
@@ -1113,7 +1113,7 @@ Overfull \vbox (154.19882pt too high) detected at line 178
 
 [11
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/gnn_1_hi.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/gnn_1_hi.png>]
 File: img/gnn_1_hi.png Graphic file (type png)
 <use img/gnn_1_hi.png>
 Package pdftex.def Info: img/gnn_1_hi.png  used on input line 178.
@@ -1170,7 +1170,7 @@ Overfull \vbox (154.19882pt too high) detected at line 178
 
 [12
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/gat_neighbors.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/gat_neighbors.png>]
 File: img/gnn_1_hi.png Graphic file (type png)
 <use img/gnn_1_hi.png>
 Package pdftex.def Info: img/gnn_1_hi.png  used on input line 178.
@@ -1227,7 +1227,7 @@ Overfull \vbox (154.19882pt too high) detected at line 178
 
 [13
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/gat_neighbors_weighted.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/gat_neighbors_weighted.png>]
 File: img/gnn_1_hi.png Graphic file (type png)
 <use img/gnn_1_hi.png>
 Package pdftex.def Info: img/gnn_1_hi.png  used on input line 178.
@@ -1284,7 +1284,7 @@ Overfull \vbox (154.19882pt too high) detected at line 178
 
 [14
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/gnn_2_hi.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/gnn_2_hi.png>]
 File: img/gnn_1_hi.png Graphic file (type png)
 <use img/gnn_1_hi.png>
 Package pdftex.def Info: img/gnn_1_hi.png  used on input line 178.
@@ -1341,7 +1341,7 @@ Overfull \vbox (154.19882pt too high) detected at line 178
 
 [15
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/gnn_3_hi_prime.png>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/gnn_3_hi_prime.png>]
 <img/multi_head.png, id=284, 1039.885pt x 673.51625pt>
 File: img/multi_head.png Graphic file (type png)
 <use img/multi_head.png>
@@ -1364,7 +1364,7 @@ Overfull \vbox (10.45428pt too high) detected at line 187
 
 [16
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/multi_head.png (PNG copy)>] [17
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/multi_head.png (PNG copy)>] [17
 
 ] [18
 
@@ -1380,19 +1380,19 @@ Overfull \vbox (3.85533pt too high) detected at line 225
 
 [19
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/brain_mesh.PNG>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/brain_mesh.PNG>]
 <img/text_1.PNG, id=337, 982.16937pt x 751.30687pt>
 File: img/text_1.PNG Graphic file (type png)
 <use img/text_1.PNG>
 Package pdftex.def Info: img/text_1.PNG  used on input line 235.
-(pdftex.def)             Requested size: 179.24068pt x 192.6182pt.
+(pdftex.def)             Requested size: 190.63054pt x 192.6182pt.
 
 Overfull \vbox (5.2805pt too high) detected at line 235
  []
 
 [20
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/text_1.PNG>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/text_1.PNG>]
 <img/text_2.PNG, id=350, 1123.19624pt x 677.02937pt>
 File: img/text_2.PNG Graphic file (type png)
 <use img/text_2.PNG>
@@ -1404,7 +1404,7 @@ Overfull \vbox (3.85686pt too high) detected at line 245
 
 [21
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/text_2.PNG>]
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/text_2.PNG>]
 <img/text_3.PNG, id=363, 774.895pt x 559.59062pt>
 File: img/text_3.PNG Graphic file (type png)
 <use img/text_3.PNG>
@@ -1416,63 +1416,69 @@ Overfull \vbox (3.75415pt too high) detected at line 255
 
 [22
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/text_3.PNG>] [23
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/text_3.PNG>] [23
+
+] [24
 
 ]
-<img/benchmark_dwivedi.PNG, id=388, 462.528pt x 260.172pt>
+<img/benchmark_dwivedi.PNG, id=399, 462.528pt x 260.172pt>
 File: img/benchmark_dwivedi.PNG Graphic file (type png)
 <use img/benchmark_dwivedi.PNG>
-Package pdftex.def Info: img/benchmark_dwivedi.PNG  used on input line 281.
+Package pdftex.def Info: img/benchmark_dwivedi.PNG  used on input line 286.
 (pdftex.def)             Requested size: 369.89845pt x 192.62733pt.
 
-Overfull \vbox (5.00938pt too high) detected at line 281
- []
-
-[24
-
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/benchmark_dwivedi.PNG>]
-<img/benchmark_gat_worse.PNG, id=401, 462.528pt x 260.172pt>
-File: img/benchmark_gat_worse.PNG Graphic file (type png)
-<use img/benchmark_gat_worse.PNG>
-Package pdftex.def Info: img/benchmark_gat_worse.PNG  used on input line 301.
-(pdftex.def)             Requested size: 369.88933pt x 199.17049pt.
-
-Overfull \vbox (8.7035pt too high) detected at line 301
+Overfull \vbox (5.00938pt too high) detected at line 286
  []
 
 [25
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/benchmark_gat_worse.PNG>]
-<img/oversmoothing.png, id=415, 603.0028pt x 405.76593pt>
-File: img/oversmoothing.png Graphic file (type png)
-<use img/oversmoothing.png>
-Package pdftex.def Info: img/oversmoothing.png  used on input line 310.
-(pdftex.def)             Requested size: 284.52469pt x 192.62936pt.
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/benchmark_dwivedi.PNG>] [26
 
-Overfull \vbox (3.29414pt too high) detected at line 310
- []
+]
+<img/benchmark_gat_worse.PNG, id=425, 462.528pt x 260.172pt>
+File: img/benchmark_gat_worse.PNG Graphic file (type png)
+<use img/benchmark_gat_worse.PNG>
+Package pdftex.def Info: img/benchmark_gat_worse.PNG  used on input line 303.
+(pdftex.def)             Requested size: 369.88933pt x 199.17049pt.
 
-[26
-
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/oversmoothing.png>]
-<img/bottleneck.png, id=428, 1079.53313pt x 715.17188pt>
-File: img/bottleneck.png Graphic file (type png)
-<use img/bottleneck.png>
-Package pdftex.def Info: img/bottleneck.png  used on input line 320.
-(pdftex.def)             Requested size: 312.98532pt x 192.62119pt.
-
-Overfull \vbox (3.5837pt too high) detected at line 320
+Overfull \vbox (8.7035pt too high) detected at line 303
  []
 
 [27
 
- <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/img/bottleneck.png>] [28
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/benchmark_gat_worse.PNG>] [28
+
+]
+<img/oversmoothing.png, id=449, 603.0028pt x 405.76593pt>
+File: img/oversmoothing.png Graphic file (type png)
+<use img/oversmoothing.png>
+Package pdftex.def Info: img/oversmoothing.png  used on input line 319.
+(pdftex.def)             Requested size: 284.52469pt x 192.62936pt.
+
+Overfull \vbox (3.29414pt too high) detected at line 319
+ []
+
+[29
+
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/oversmoothing.png>]
+<img/bottleneck.png, id=461, 1079.53313pt x 715.17188pt>
+File: img/bottleneck.png Graphic file (type png)
+<use img/bottleneck.png>
+Package pdftex.def Info: img/bottleneck.png  used on input line 329.
+(pdftex.def)             Requested size: 312.98532pt x 192.62119pt.
+
+Overfull \vbox (3.5837pt too high) detected at line 329
+ []
+
+[30
+
+ <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/img/bottleneck.png>] [31
 
  <c:/texlive/2020/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]pdfTeX warning (ext4): destination with the same identifier (name{beamerbib}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.365 \end{frame}
-                  [29
+l.374 \end{frame}
+                  [32
 
 ]
 \tf@nav=\write6
@@ -1484,7 +1490,7 @@ l.365 \end{frame}
 \tf@snm=\write8
 \openout8 = `GATs.snm'.
 
- (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/GATs.aux)
+ (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1492,18 +1498,18 @@ Package rerunfilecheck Info: File `GATs.out' has not changed.
 (rerunfilecheck)             Checksum: A2DEB625B16F4B96798F2EC3D27FD3AD;857.
  ) 
 Here is how much of TeX's memory you used:
- 21646 strings out of 479307
- 411855 string characters out of 5871290
+ 21658 strings out of 479307
+ 412215 string characters out of 5871290
  713972 words of memory out of 5000000
- 38190 multiletter control sequences out of 15000+600000
+ 38196 multiletter control sequences out of 15000+600000
  414296 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,19n,132p,513b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 131i,19n,132p,530b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/presentation/GATs.pdf" (29 pages, 10194274 bytes).
+Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.pdf" (32 pages, 10197047 bytes).
 PDF statistics:
- 551 PDF objects out of 1000 (max. 8388607)
- 446 compressed objects within 5 object streams
- 74 named destinations out of 1000 (max. 500000)
+ 586 PDF objects out of 1000 (max. 8388607)
+ 478 compressed objects within 5 object streams
+ 80 named destinations out of 1000 (max. 500000)
  280 words of extra memory for PDF output out of 10000 (max. 10000000)
 

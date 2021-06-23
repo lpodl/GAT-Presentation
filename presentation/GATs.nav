@@ -62,15 +62,21 @@
 \headcommand {\beamer@framepages {26}{26}}
 \headcommand {\slideentry {4}{2}{5}{27/27}{(Related Work)}{0}}
 \headcommand {\beamer@framepages {27}{27}}
-\headcommand {\beamer@sectionpages {23}{27}}
-\headcommand {\beamer@subsectionpages {23}{27}}
-\headcommand {\sectionentry {5}{References}{28}{References}{0}}
-\headcommand {\slideentry {5}{0}{1}{28/28}{}{0}}
+\headcommand {\slideentry {4}{2}{6}{28/28}{(Related Work)}{0}}
 \headcommand {\beamer@framepages {28}{28}}
-\headcommand {\slideentry {5}{0}{2}{29/29}{}{0}}
+\headcommand {\slideentry {4}{2}{7}{29/29}{(Related Work)}{0}}
 \headcommand {\beamer@framepages {29}{29}}
-\headcommand {\beamer@partpages {1}{29}}
-\headcommand {\beamer@subsectionpages {28}{29}}
-\headcommand {\beamer@sectionpages {28}{29}}
-\headcommand {\beamer@documentpages {29}}
-\headcommand {\gdef \inserttotalframenumber {19}}
+\headcommand {\slideentry {4}{2}{8}{30/30}{(Related Work)}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\beamer@sectionpages {23}{30}}
+\headcommand {\beamer@subsectionpages {23}{30}}
+\headcommand {\sectionentry {5}{References}{31}{References}{0}}
+\headcommand {\slideentry {5}{0}{1}{31/31}{}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {5}{0}{2}{32/32}{}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@partpages {1}{32}}
+\headcommand {\beamer@subsectionpages {31}{32}}
+\headcommand {\beamer@sectionpages {31}{32}}
+\headcommand {\beamer@documentpages {32}}
+\headcommand {\gdef \inserttotalframenumber {22}}

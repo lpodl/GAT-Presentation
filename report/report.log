@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  22 JUN 2021 23:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  24 JUN 2021 01:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -308,56 +308,97 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
+) (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+ (c:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count308
+\calc@Bcount=\count309
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count310
+\calc@Cskip=\skip64
+) (c:/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count311
+\l_MT_multwidth_dim=\dimen171
+\origjot=\skip65
+\l_MT_shortvdotswithinadjustabove_dim=\dimen172
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen173
+\l_MT_above_intertext_sep=\dimen174
+\l_MT_below_intertext_sep=\dimen175
+\l_MT_above_shortintertext_sep=\dimen176
+\l_MT_below_shortintertext_sep=\dimen177
+\xmathstrut@box=\box49
+\xmathstrut@dim=\dimen178
 ) (c:/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box49
-\beforetitleunit=\skip62
-\aftertitleunit=\skip63
-\ttl@plus=\dimen169
-\ttl@minus=\dimen170
+\ttl@box=\box50
+\beforetitleunit=\skip66
+\aftertitleunit=\skip67
+\ttl@plus=\dimen179
+\ttl@minus=\dimen180
 \ttl@toksa=\toks28
-\titlewidth=\dimen171
-\titlewidthlast=\dimen172
-\titlewidthfirst=\dimen173
+\titlewidth=\dimen181
+\titlewidthlast=\dimen182
+\titlewidthfirst=\dimen183
 ) (c:/texlive/2020/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip64
-\cftbeforetoctitleskip=\skip65
-\cftaftertoctitleskip=\skip66
-\cftbeforepartskip=\skip67
-\cftpartnumwidth=\skip68
-\cftpartindent=\skip69
-\cftbeforechapskip=\skip70
-\cftchapindent=\skip71
-\cftchapnumwidth=\skip72
-\cftbeforesecskip=\skip73
-\cftsecindent=\skip74
-\cftsecnumwidth=\skip75
-\cftbeforesubsecskip=\skip76
-\cftsubsecindent=\skip77
-\cftsubsecnumwidth=\skip78
-\cftbeforesubsubsecskip=\skip79
-\cftsubsubsecindent=\skip80
-\cftsubsubsecnumwidth=\skip81
-\cftbeforeparaskip=\skip82
-\cftparaindent=\skip83
-\cftparanumwidth=\skip84
-\cftbeforesubparaskip=\skip85
-\cftsubparaindent=\skip86
-\cftsubparanumwidth=\skip87
-\cftbeforeloftitleskip=\skip88
-\cftafterloftitleskip=\skip89
-\cftbeforefigskip=\skip90
-\cftfigindent=\skip91
-\cftfignumwidth=\skip92
-\c@lofdepth=\count308
-\c@lotdepth=\count309
-\cftbeforelottitleskip=\skip93
-\cftafterlottitleskip=\skip94
-\cftbeforetabskip=\skip95
-\cfttabindent=\skip96
-\cfttabnumwidth=\skip97
+\cftparskip=\skip68
+\cftbeforetoctitleskip=\skip69
+\cftaftertoctitleskip=\skip70
+\cftbeforepartskip=\skip71
+\cftpartnumwidth=\skip72
+\cftpartindent=\skip73
+\cftbeforechapskip=\skip74
+\cftchapindent=\skip75
+\cftchapnumwidth=\skip76
+\cftbeforesecskip=\skip77
+\cftsecindent=\skip78
+\cftsecnumwidth=\skip79
+\cftbeforesubsecskip=\skip80
+\cftsubsecindent=\skip81
+\cftsubsecnumwidth=\skip82
+\cftbeforesubsubsecskip=\skip83
+\cftsubsubsecindent=\skip84
+\cftsubsubsecnumwidth=\skip85
+\cftbeforeparaskip=\skip86
+\cftparaindent=\skip87
+\cftparanumwidth=\skip88
+\cftbeforesubparaskip=\skip89
+\cftsubparaindent=\skip90
+\cftsubparanumwidth=\skip91
+\cftbeforeloftitleskip=\skip92
+\cftafterloftitleskip=\skip93
+\cftbeforefigskip=\skip94
+\cftfigindent=\skip95
+\cftfignumwidth=\skip96
+\c@lofdepth=\count312
+\c@lotdepth=\count313
+\cftbeforelottitleskip=\skip97
+\cftafterlottitleskip=\skip98
+\cftbeforetabskip=\skip99
+\cfttabindent=\skip100
+\cfttabnumwidth=\skip101
 ) (c:/texlive/2020/texmf-dist/tex/latex/glossaries/base/glossaries.sty
 Package: glossaries 2020/03/19 v4.46 (NLCT)
  (c:/texlive/2020/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
@@ -372,25 +413,25 @@ Package: xfor 2009/02/05 v1.05 (NLCT)
 Package: datatool-base 2019/09/27 v2.32 (NLCT)
  (c:/texlive/2020/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count310
+\c@su@anzahl=\count314
 ) (c:/texlive/2020/texmf-dist/tex/latex/datatool/datatool-fp.sty
 Package: datatool-fp 2019/09/27 v2.32 (NLCT)
  (c:/texlive/2020/texmf-dist/tex/latex/fp/fp.sty
 Package: fp 1995/04/02
  `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (c:/texlive/2020/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count311
+\actioncount=\count315
 ) (c:/texlive/2020/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count312
-\FP@xia=\count313
-\FP@xib=\count314
-\FP@xfa=\count315
-\FP@xfb=\count316
-\FP@rega=\count317
-\FP@regb=\count318
-\FP@regs=\count319
-\FP@times=\count320
+\FP@xs=\count316
+\FP@xia=\count317
+\FP@xib=\count318
+\FP@xfa=\count319
+\FP@xfb=\count320
+\FP@rega=\count321
+\FP@regb=\count322
+\FP@regs=\count323
+\FP@times=\count324
 ) (c:/texlive/2020/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
 ) (c:/texlive/2020/texmf-dist/tex/latex/fp/fp-snap.sty
@@ -403,7 +444,7 @@ Package: fp-trigo 1995/04/14
 Package: fp-pas 1994/08/29
 ) (c:/texlive/2020/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count321
+\FPseed=\count325
 ) (c:/texlive/2020/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
 ) (c:/texlive/2020/texmf-dist/tex/latex/fp/fp-upn.sty
@@ -412,20 +453,20 @@ Package: fp-upn 1996/10/21
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks31
-\@dtl@tmpcount=\count322
-\dtl@tmplength=\skip98
-\dtl@sortresult=\count323
-\@dtl@numgrpsepcount=\count324
-\@dtl@datatype=\count325
-\dtl@codeA=\count326
-\dtl@codeB=\count327
-\@dtl@foreach@level=\count328
+\@dtl@tmpcount=\count326
+\dtl@tmplength=\skip102
+\dtl@sortresult=\count327
+\@dtl@numgrpsepcount=\count328
+\@dtl@datatype=\count329
+\dtl@codeA=\count330
+\dtl@codeB=\count331
+\@dtl@foreach@level=\count332
 ) (c:/texlive/2020/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307.sty
 Package: glossaries-compatible-307 2020/03/19 v4.46 (NLCT)
 )
-\gls@level=\count329
+\gls@level=\count333
 \@gls@tmpb=\toks32
-\gls@tmplen=\skip99
+\gls@tmplen=\skip103
 \glskeylisttok=\toks33
 \glslabeltok=\toks34
 \glsshorttok=\toks35
@@ -434,51 +475,51 @@ Package: glossaries-compatible-307 2020/03/19 v4.46 (NLCT)
 Package: glossary-hypernav 2020/03/19 v4.46 (NLCT)
 ) (c:/texlive/2020/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
 Package: glossary-list 2020/03/19 v4.46 (NLCT)
-\glslistdottedwidth=\skip100
+\glslistdottedwidth=\skip104
 ) (c:/texlive/2020/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
 Package: glossary-long 2020/03/19 v4.46 (NLCT)
  (c:/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip101
-\LTright=\skip102
-\LTpre=\skip103
-\LTpost=\skip104
-\LTchunksize=\count330
-\LTcapwidth=\dimen174
-\LT@head=\box50
-\LT@firsthead=\box51
-\LT@foot=\box52
-\LT@lastfoot=\box53
-\LT@cols=\count331
-\LT@rows=\count332
-\c@LT@tables=\count333
-\c@LT@chunks=\count334
+\LTleft=\skip105
+\LTright=\skip106
+\LTpre=\skip107
+\LTpost=\skip108
+\LTchunksize=\count334
+\LTcapwidth=\dimen184
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@cols=\count335
+\LT@rows=\count336
+\c@LT@tables=\count337
+\c@LT@chunks=\count338
 \LT@p@ftn=\toks37
 )
-\glsdescwidth=\skip105
-\glspagelistwidth=\skip106
+\glsdescwidth=\skip109
+\glspagelistwidth=\skip110
 ) (c:/texlive/2020/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
 Package: glossary-super 2020/03/19 v4.46 (NLCT)
  (c:/texlive/2020/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2020/02/02 v4.1g the supertabular environment
-\c@tracingst=\count335
-\ST@wd=\dimen175
-\ST@rightskip=\skip107
-\ST@leftskip=\skip108
-\ST@parfillskip=\skip109
-\ST@pageleft=\dimen176
-\ST@headht=\dimen177
-\ST@tailht=\dimen178
-\ST@pagesofar=\dimen179
-\ST@pboxht=\dimen180
-\ST@lineht=\dimen181
-\ST@prevht=\dimen182
-\ST@toadd=\dimen183
-\ST@dimen=\dimen184
-\ST@pbox=\box54
+\c@tracingst=\count339
+\ST@wd=\dimen185
+\ST@rightskip=\skip111
+\ST@leftskip=\skip112
+\ST@parfillskip=\skip113
+\ST@pageleft=\dimen186
+\ST@headht=\dimen187
+\ST@tailht=\dimen188
+\ST@pagesofar=\dimen189
+\ST@pboxht=\dimen190
+\ST@lineht=\dimen191
+\ST@prevht=\dimen192
+\ST@toadd=\dimen193
+\ST@dimen=\dimen194
+\ST@pbox=\box55
 )) (c:/texlive/2020/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
 Package: glossary-tree 2020/03/19 v4.46 (NLCT)
-\glstreeindent=\skip110
+\glstreeindent=\skip114
 )) (c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -489,18 +530,18 @@ Package xcolor Info: Driver file: pdftex.def on input line 225.
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
  (c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
 Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
-\col@sep=\dimen185
-\ar@mcellbox=\box55
-\extrarowheight=\dimen186
+\col@sep=\dimen195
+\ar@mcellbox=\box56
+\extrarowheight=\dimen196
 \NC@list=\toks38
-\extratabsurround=\skip111
-\backup@length=\skip112
-\ar@cellbox=\box56
+\extratabsurround=\skip115
+\backup@length=\skip116
+\ar@cellbox=\box57
 )
 \everycr=\toks39
-\minrowclearance=\skip113
+\minrowclearance=\skip117
 )
-\rownum=\count336
+\rownum=\count340
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -512,20 +553,20 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) (c:/texlive/2020/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count337
-\c@@ppsavesec=\count338
-\c@@ppsaveapp=\count339
+\c@@pps=\count341
+\c@@ppsavesec=\count342
+\c@@ppsaveapp=\count343
 ) (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/12/16 3.52 The Babel package
  (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/12/16 3.52 Babel common definitions
-\babel@savecnt=\count340
-\U@D=\dimen187
+\babel@savecnt=\count344
+\U@D=\dimen197
 \l@babelnohyphens=\language86
  (c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count341
+\bbl@dirlevel=\count345
  (c:/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
@@ -534,31 +575,33 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 108.
-))
-\mylenf=\skip114
- (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count342
-\l__pdf_internal_box=\box57
-) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.aux)
+\l__kernel_color_stack_int=\count346
+\l__pdf_internal_box=\box58
+) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.aux
+
+LaTeX Warning: Label `chapter:related_work' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -567,15 +610,14 @@ LaTeX Font Info:    ... okay on input line 46.
 * paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* bindingoffset: 28.45274pt
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 412.56499pt, 71.13188pt)
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
 * v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=412.56499pt
+* \textwidth=426.79135pt
 * \textheight=674.33032pt
-* \oddsidemargin=41.54102pt
+* \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
 * \topmargin=-18.78552pt
 * \headheight=12.0pt
@@ -597,16 +639,16 @@ LaTeX Font Info:    ... okay on input line 46.
 
 (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count343
-\scratchdimen=\dimen188
-\scratchbox=\box58
-\nofMPsegments=\count344
-\nofMParguments=\count345
+\scratchcounter=\count347
+\scratchdimen=\dimen198
+\scratchbox=\box59
+\nofMPsegments=\count348
+\nofMParguments=\count349
 \everyMPshowfont=\toks40
-\MPscratchCnt=\count346
-\MPscratchDim=\dimen189
-\MPnumerator=\count347
-\makeMPintoPDFobject=\count348
+\MPscratchCnt=\count350
+\MPscratchDim=\dimen199
+\MPnumerator=\count351
+\makeMPintoPDFobject=\count352
 \everyMPtoPDFconversion=\toks41
 ) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -628,7 +670,7 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 46.
+Package hyperref Info: Link coloring ON on input line 48.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -636,11 +678,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count349
+\c@section@level=\count353
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
  (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.out) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
@@ -650,33 +692,76 @@ LaTeX Info: Redefining \nameref on input line 46.
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 7.
-(pdftex.def)             Requested size: 123.77075pt x 90.72893pt.
+(pdftex.def)             Requested size: 128.0387pt x 93.86247pt.
  [1
 
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/logo.png>]) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/01_introduction.tex) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/02_applications.tex) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/03_related_work.tex) [1
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/logo.png>]) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/01_introduction.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--66
 
-] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.bbl
+ []
 
-LaTeX Warning: Empty `thebibliography' environment on input line 24.
 
-) [2] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 3--66
+
+ []
+
+(d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/02_gat.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<multi_head.png, id=29, 1039.885pt x 673.51625pt>
+File: multi_head.png Graphic file (type png)
+<use multi_head.png>
+Package pdftex.def Info: multi_head.png  used on input line 10.
+(pdftex.def)             Requested size: 213.39568pt x 138.20532pt.
+ [1
+
+])
+Underfull \hbox (badness 10000) in paragraph at lines 15--71
+
+ []
+
+(d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/03_applications.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--76
+
+ []
+
+[2 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/multi_head.png (PNG copy)>] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--81
+
+ []
+
+(d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/05_depth.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--86
+
+ []
+
+[3] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.bbl) [4] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: FD98DB5A29E09BCB5ECE864497E7E103;46.
+(rerunfilecheck)             Checksum: 156B65EC8703A8D8D936B56F50013B8E;46.
  ) 
 Here is how much of TeX's memory you used:
- 14418 strings out of 479307
- 223305 string characters out of 5871290
- 635463 words of memory out of 5000000
- 31301 multiletter control sequences out of 15000+600000
- 405839 words of font info for 35 fonts, out of 8000000 for 9000
+ 15547 strings out of 479307
+ 239895 string characters out of 5871290
+ 658188 words of memory out of 5000000
+ 32374 multiletter control sequences out of 15000+600000
+ 412068 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,6n,102p,1107b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.pdf" (3 pages, 160509 bytes).
+ 102i,9n,102p,1841b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.pdf" (5 pages, 377888 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 14 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 19 words of extra memory for PDF output out of 10000 (max. 10000000)
 

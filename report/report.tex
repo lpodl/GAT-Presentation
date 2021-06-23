@@ -1,6 +1,6 @@
 \documentclass[11pt,oneside]{book}
 
-\usepackage[paperheight=297mm,paperwidth=210mm,top=30mm,bottom=30mm,bindingoffset=10mm, inner=30mm, outer=25mm]{geometry}
+\usepackage[paperheight=297mm,paperwidth=210mm,top=30mm,bottom=30mm,inner=30mm, outer=30mm]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{caption}
@@ -11,6 +11,8 @@
 \usepackage{fancyhdr}
 \usepackage{setspace}
 \usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathtools}
 \usepackage{titlesec}
 \usepackage{tocloft}
 \usepackage[acronym,nomain,nonumberlist]{glossaries}
@@ -23,8 +25,11 @@
 \makeatletter
 \patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
 \makeatother
+% no caption prefix
+\captionsetup[figure]{labelformat=empty}
 
-\hypersetup{citecolor=green, filecolor=black, linkcolor=blue, urlcolor=blue}
+% link colors
+\hypersetup{citecolor=black, filecolor=black, linkcolor=black, urlcolor=blue}
 
 \newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
 \pagestyle{fancy}
@@ -32,13 +37,10 @@
 \fancyhead[RO]{\nouppercase{\leftmark}}
 \renewcommand{\headrulewidth}{0.4pt}
 
-\renewcommand{\cftfigpresnum}{Figure\ }
-\renewcommand{\cfttabpresnum}{Table\ }
-\newlength{\mylenf}
-\settowidth{\mylenf}{\cftfigpresnum}
-\setlength{\cftfignumwidth}{\dimexpr\mylenf+2.5em}
-\setlength{\cfttabnumwidth}{\dimexpr\mylenf+1.8em}
-\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+% change chapter title spacing
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{0pt}{20pt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Document begins here %%
@@ -59,23 +61,32 @@
 \setstretch{1.0}
 \chapter*{Introduction}
 \pagenumbering{arabic}
-\setstretch{1.5}
+\setstretch{1.25}
 \input{chapters/01_introduction}
 
 \setstretch{1.0}
-\chapter*{Applications}
-\setstretch{1.5}
-\input{chapters/02_applications}
-
+\chapter*{GAT Architecture}
+\setstretch{1.25}
+\input{chapters/02_gat} \\
 
 \setstretch{1.0}
-\chapter*{Related Work}
-\setstretch{1.5}
-\input{chapters/03_related_work}
+\chapter*{Applications}
+\setstretch{1.25}
+\input{chapters/03_applications} \\
+
+\setstretch{1.0}
+\chapter*{Benchmarking GNNs}
+\setstretch{1.25}
+\input{chapters/04_benchmarks} \\
+
+\setstretch{1.0}
+\chapter*{Going deep with GNNs}
+\setstretch{1.25}
+\input{chapters/05_depth} \\ 
 
 \newpage
 \setstretch{1.0}
-\bibliographystyle{ieeetrans}
+\bibliographystyle{apalike}
 \renewcommand\bibname{References}
 
 \bibliography{references} %copy all references to references.bib file
