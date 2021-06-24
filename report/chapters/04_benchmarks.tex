@@ -2,4 +2,14 @@
 
 benchmarks in Question
 depth of GNNs
-the road ahead?
+the road ahead?\\
+Graph attention networks are build by stacking graph attentional layers, which we will briefly explain in this section, closely following \cite{velickovic2018graph}. The input of a layer is a set of node features, $h = \{h_1,...,h_N\}, h_i \in \mathbb{R}^F$, where $N$ is the number of nodes and $F$ the number of features in each node. The layer produces a new feature representation $h_i' \in \mathbb{R}^{F'}$ for each node $h_i$, possibly of different cardinality $F'$. To that end, a learnable weight matrix $\mathbf{W} \in \mathbb{R}^{F' \times F}$ and a shared attention mechanism $a: \mathbb{R}^{F'} \times \mathbb{R}^{F'} \rightarrow \mathbb{R}$ are introduced. The importance of a node's neighbor, called \textit{attention coefficient}, is then computed as $a(\mathbf{W}h_i, \mathbf{W}h_j)$. Denoting the normalized coefficients as $\alpha_{ij}$, the hidden state of a node $h_i$ can then be obtained by
+\begin{align*}
+    h_i' = \sigma(\sum_{j \in \mathcal{N}_i} \alpha_{ij}\mathbf{W}h_j)
+\end{align*}Graph attention networks are build by stacking graph attentional layers, which we will briefly explain in this section, closely following \cite{velickovic2018graph}. The input of a layer is a set of node features, $h = \{h_1,...,h_N\}, h_i \in \mathbb{R}^F$, where $N$ is the number of nodes and $F$ the number of features in each node. The layer produces a new feature representation $h_i' \in \mathbb{R}^{F'}$ for each node $h_i$, possibly of different cardinality $F'$. To that end, a learnable weight matrix $\mathbf{W} \in \mathbb{R}^{F' \times F}$ and a shared attention mechanism $a: \mathbb{R}^{F'} \times \mathbb{R}^{F'} \rightarrow \mathbb{R}$ are introduced. The importance of a node's neighbor, called \textit{attention coefficient}, is then computed as $a(\mathbf{W}h_i, \mathbf{W}h_j)$. Denoting the normalized coefficients as $\alpha_{ij}$, the hidden state of a node $h_i$ can then be obtained by
+\begin{align*}
+    h_i' = \sigma(\sum_{j \in \mathcal{N}_i} \alpha_{ij}\mathbf{W}h_j)
+\end{align*}Graph attention networks are build by stacking graph attentional layers, which we will briefly explain in this section, closely following \cite{velickovic2018graph}. The input of a layer is a set of node features, $h = \{h_1,...,h_N\}, h_i \in \mathbb{R}^F$, where $N$ is the number of nodes and $F$ the number of features in each node. The layer produces a new feature representation $h_i' \in \mathbb{R}^{F'}$ for each node $h_i$, possibly of different cardinality $F'$. To that end, a learnable weight matrix $\mathbf{W} \in \mathbb{R}^{F' \times F}$ and a shared attention mechanism $a: \mathbb{R}^{F'} \times \mathbb{R}^{F'} \rightarrow \mathbb{R}$ are introduced. The importance of a node's neighbor, called \textit{attention coefficient}, is then computed as $a(\mathbf{W}h_i, \mathbf{W}h_j)$. Denoting the normalized coefficients as $\alpha_{ij}$, the hidden state of a node $h_i$ can then be obtained by
+\begin{align*}
+    h_i' = \sigma(\sum_{j \in \mathcal{N}_i} \alpha_{ij}\mathbf{W}h_j)
+\end{align*}

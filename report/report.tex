@@ -3,6 +3,7 @@
 \usepackage[paperheight=297mm,paperwidth=210mm,top=30mm,bottom=30mm,inner=30mm, outer=30mm]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
+\usepackage{enumitem}
 \usepackage{caption}
 \usepackage{subcaption}
 \usepackage[nottoc]{tocbibind}
@@ -27,7 +28,8 @@
 \makeatother
 % no caption prefix
 \captionsetup[figure]{labelformat=empty}
-
+% no-indented paragraphs
+\setlength{\parindent}{0pt}
 % link colors
 \hypersetup{citecolor=black, filecolor=black, linkcolor=black, urlcolor=blue}
 
@@ -67,12 +69,12 @@
 \setstretch{1.0}
 \chapter*{GAT Architecture}
 \setstretch{1.25}
-\input{chapters/02_gat} \\
+\input{chapters/02_gat}
 
 \setstretch{1.0}
 \chapter*{Applications}
 \setstretch{1.25}
-\input{chapters/03_applications} \\
+\input{chapters/03_applications}
 
 \setstretch{1.0}
 \chapter*{Benchmarking GNNs}

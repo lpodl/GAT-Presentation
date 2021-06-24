@@ -1,4 +1,17 @@
 \label{chapter:applications}
 
-Examples for brain data and text models.
-As machine learning models find their way in more and more fields of science, allowing them to work with graph data has been a research topic with increasing popularity in recent years. Graphs are commonly used across various fields such as social science (social networks), natural science (protein-protein interactions) and knowledge graphs \cite{zhou2021graph}. In order to allow for this unique data structure, special neural networks have been developed, called \textbf{graph neural networks (GNNs)}. With advancements in the field of deep learning, especially the invention and success of convolutional neural networks, the development of similar methods for graphs suggests itself. In both cases, extracting localized features and composing them to more complex and expressive representations is a major step towards high-performance models for classification and clustering tasks. One way of generalizing convolutions in the graph domain are so-called spatial methods (\cite{hamilton2018inductive}, \cite{monti2016geometric}), where convolutions are defined directly on the graph, operating on groups of spatially close neighbors. Inspired by this idea, \cite{velickovic2018graph} proposed a new architecture to compute node representations by attending over a node's neighbors and assessing their individual importance, called \textbf{graph attention networks (GATs)}. This report covers a short explanation of the proposed idea and discusses some of its benefits in specific applications. Finally, we will give an overview of related developments in the field, including concerns over prevalent data sets used for benchmarks and limitations of architectures like GATs.
+To demonstrate the impact of GATs, we will present two examples for their applications. The first one was developed in collaboration with some of the involved authors shortly after the original paper was published. Then, a fairly recent publication will highlight the relevance of the architecture to this day.
+
+\section*{GATs for Brain Mesh Segmentation}
+In \cite{Cucurull2018ConvolutionalNN}, both GCNs and GATs were cutting edge technologies that were assessed against previous mesh parcellation models. Reconstructions of the cortical surface were represented in a graph which had to be divided into areas. Nodes correspond to locations on the brain surface, their features included cortical thickness, curvature and functional connectivity. \\
+
+The authors considered three kinds of information that the models could use: \textit{neighborhood information}, \textit{node features} and \textit{global information}, that is, access to feature information from all the nodes. 
+Previous approaches for this task were unable to exploit all three kinds of information and were therefor limited in their complexity. Alongside GCNs, GATs outperformed all state-of-the-art models, showing the importance of utilizing the mesh structure in the data. Furthermore, the authors showed that dynamic attention mechanisms actually improve performance when compared to a constant attention for all neighbors.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.75\textwidth]{img/brain_mesh.PNG}
+    \caption{Qualitative area parcellation results for two test set subjects. \cite{Cucurull2018ConvolutionalNN}}
+\end{figure}
+
+In conclusion, this application demonstrated the potential of GNNs and their applicability to real-world problems. GATs showed promising results, raising hopes for applications in other areas. As we will see later on, this assessment is still up to date and in-line with recent benchmarks.\\~\\

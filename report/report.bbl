@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[Cucurull et~al., 2018]{Cucurull2018ConvolutionalNN}
+Cucurull, G., Wagstyl, K., Casanova, A., Velickovic, P., Jakobsen, E.,
+  Drozdzal, M., Romero, A., Evans, A.~C., and Bengio, Y. (2018).
+\newblock Convolutional neural networks for mesh-based parcellation of the
+  cerebral cortex.
+
 \bibitem[Hamilton et~al., 2018]{hamilton2018inductive}
 Hamilton, W.~L., Ying, R., and Leskovec, J. (2018).
 \newblock Inductive representation learning on large graphs.
