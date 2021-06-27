@@ -4,19 +4,19 @@ Graph attention networks are build by stacking graph attentional layers, which w
 \begin{align*}
     h_i' = \sigma(\sum_{j \in \mathcal{N}_i} \alpha_{ij}\mathbf{W}h_j)
 \end{align*}
-where $\mathcal{N}_i$ is the set of indices for neighbors of $h_i$ and $\sigma$ a nonlinear function. This process can be initiated multiple times, resulting in multiple attention mechanisms. This popular method is called \textit{multi-head attention} and was adapted from \cite{vaswani2017attention}. The resulting features can then be concatenated or averaged to improve the models performance  as illustrated in Figure \ref{fig:multi-head}.\\
+where $\mathcal{N}_i$ is the set of indices for neighbors of $h_i$ and $\sigma$ a nonlinear function. This process can be initiated multiple times, resulting in multiple attention mechanisms. This popular method is called \textit{multi-head attention} and was adapted from \cite{vaswani2017attention}. The resulting features can then be concatenated or averaged to improve the models performance  as illustrated in Figure \ref{fig:multi-head}.
+
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.5\textwidth]{img/multi_head.png}
     \caption{Multi-head attention with three heads by node $h_1$. \cite{velickovic2018graph}}
     \label{fig:multi-head}
 \end{figure}
-
 Allthough this architexture has similarities with prior methods, it solves several issues with its flexibility. We will refer to the original paper for more details but mention two desirable properties that will be important for the subsequent chapters. 
 
 \begin{itemize}[leftmargin=*]
     \item Assigning different importances to nodes of the same neighborhood enables a leap in complexity when compared to graph convolutional networks (GCNs). Furthermore, analyzing the learned attention weights may improve \textbf{explainability} of the model.
     \item Since attention mechanism and feature weight matrix are applied in a shared manner, a trained GAT can be applied to \textbf{inductive} tasks. That is, they can be evaluated on graphs that were completely unseen during training. Many previous approaches depended on upfront access to the whole graph, making them unfeasible for such tasks. 
-    \\~\\
+    \bigskip
 \end{itemize}
 

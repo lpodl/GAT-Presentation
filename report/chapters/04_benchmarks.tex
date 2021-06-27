@@ -1,15 +1,14 @@
 \label{chapter:related_work}
 
-benchmarks in Question
-depth of GNNs
-the road ahead?\\
-Graph attention networks are build by stacking graph attentional layers, which we will briefly explain in this section, closely following \cite{velickovic2018graph}. The input of a layer is a set of node features, $h = \{h_1,...,h_N\}, h_i \in \mathbb{R}^F$, where $N$ is the number of nodes and $F$ the number of features in each node. The layer produces a new feature representation $h_i' \in \mathbb{R}^{F'}$ for each node $h_i$, possibly of different cardinality $F'$. To that end, a learnable weight matrix $\mathbf{W} \in \mathbb{R}^{F' \times F}$ and a shared attention mechanism $a: \mathbb{R}^{F'} \times \mathbb{R}^{F'} \rightarrow \mathbb{R}$ are introduced. The importance of a node's neighbor, called \textit{attention coefficient}, is then computed as $a(\mathbf{W}h_i, \mathbf{W}h_j)$. Denoting the normalized coefficients as $\alpha_{ij}$, the hidden state of a node $h_i$ can then be obtained by
-\begin{align*}
-    h_i' = \sigma(\sum_{j \in \mathcal{N}_i} \alpha_{ij}\mathbf{W}h_j)
-\end{align*}Graph attention networks are build by stacking graph attentional layers, which we will briefly explain in this section, closely following \cite{velickovic2018graph}. The input of a layer is a set of node features, $h = \{h_1,...,h_N\}, h_i \in \mathbb{R}^F$, where $N$ is the number of nodes and $F$ the number of features in each node. The layer produces a new feature representation $h_i' \in \mathbb{R}^{F'}$ for each node $h_i$, possibly of different cardinality $F'$. To that end, a learnable weight matrix $\mathbf{W} \in \mathbb{R}^{F' \times F}$ and a shared attention mechanism $a: \mathbb{R}^{F'} \times \mathbb{R}^{F'} \rightarrow \mathbb{R}$ are introduced. The importance of a node's neighbor, called \textit{attention coefficient}, is then computed as $a(\mathbf{W}h_i, \mathbf{W}h_j)$. Denoting the normalized coefficients as $\alpha_{ij}$, the hidden state of a node $h_i$ can then be obtained by
-\begin{align*}
-    h_i' = \sigma(\sum_{j \in \mathcal{N}_i} \alpha_{ij}\mathbf{W}h_j)
-\end{align*}Graph attention networks are build by stacking graph attentional layers, which we will briefly explain in this section, closely following \cite{velickovic2018graph}. The input of a layer is a set of node features, $h = \{h_1,...,h_N\}, h_i \in \mathbb{R}^F$, where $N$ is the number of nodes and $F$ the number of features in each node. The layer produces a new feature representation $h_i' \in \mathbb{R}^{F'}$ for each node $h_i$, possibly of different cardinality $F'$. To that end, a learnable weight matrix $\mathbf{W} \in \mathbb{R}^{F' \times F}$ and a shared attention mechanism $a: \mathbb{R}^{F'} \times \mathbb{R}^{F'} \rightarrow \mathbb{R}$ are introduced. The importance of a node's neighbor, called \textit{attention coefficient}, is then computed as $a(\mathbf{W}h_i, \mathbf{W}h_j)$. Denoting the normalized coefficients as $\alpha_{ij}$, the hidden state of a node $h_i$ can then be obtained by
-\begin{align*}
-    h_i' = \sigma(\sum_{j \in \mathcal{N}_i} \alpha_{ij}\mathbf{W}h_j)
-\end{align*}
+With the advancements driven by successful architectures like GATs and GCNs, analyzing and learning from graph data has become a more popular topic. GNNs have become a standard toolkit in the field and new ideas are developed in an increasing pace. In an attempt to increase comparability between architectures, \cite{dwivedi2020benchmarking} proposes a new benchmarking framework and point out flaws in common practices. The question how to fairly evaluate GNN architectures is a complicated one and outside the scope of this report. However, we'll focus on data sets and pass some criticism on evaluation methods used in the orginal GAT paper.
+
+To begin with, data sets used for transductive tasks, namely Cora and Citeseer, are not large enough. According to the authors, small scale data sets "can become a liability in the long run as new GNN models will be designed to overfit the small test sets instead of searching for more generalizable architectures". As a result of this, all GNNs considered in the paper performed almost statistically the same on them. To find differences in performance, one should include larger datasets. It is worth noting that \cite{velickovic2018graph} included the Pubmed dataset as well, which has about 20k nodes and would still be considered a small-scale dataset. The "medium-scale" data sets proposed by Dwivedi et al. all contain mutliple graphs with more than a million nodes total, except for COLLAB, which is a single social network graph with about 236k nodes.
+
+Additionally, different models should be evaluated on different tasks.  The authors presented 7 datasets to account for the variability of machine learning tasks on graphs. When compared to other models, GAT often performs slightly worse than state-of-the-art competitors, but manages to deliver the best results within the class of GCNs. However, some previously considered inferior architectures like MoNet outmatch GATs when compared on the right dataset. Comparisons for node classification on the PATTERN dataset shows a 10 percent accuracy advantage of MoNet over GAT, see Figure \ref{fig:gat_benchmark}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.95\textwidth]{img/benchmark_gat_worse.PNG}
+    \caption{GAT performs worse than MoNet on specific tasks. \cite{dwivedi2020benchmarking}}
+    \label{fig:gat_benchmark}
+\end{figure}

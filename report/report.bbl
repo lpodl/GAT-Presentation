@@ -6,6 +6,10 @@ Cucurull, G., Wagstyl, K., Casanova, A., Velickovic, P., Jakobsen, E.,
 \newblock Convolutional neural networks for mesh-based parcellation of the
   cerebral cortex.
 
+\bibitem[Dwivedi et~al., 2020]{dwivedi2020benchmarking}
+Dwivedi, V.~P., Joshi, C.~K., Laurent, T., Bengio, Y., and Bresson, X. (2020).
+\newblock Benchmarking graph neural networks.
+
 \bibitem[Hamilton et~al., 2018]{hamilton2018inductive}
 Hamilton, W.~L., Ying, R., and Leskovec, J. (2018).
 \newblock Inductive representation learning on large graphs.
@@ -15,6 +19,16 @@ Monti, F., Boscaini, D., Masci, J., Rodolà, E., Svoboda, J., and Bronstein,
   M.~M. (2016).
 \newblock Geometric deep learning on graphs and manifolds using mixture model
   cnns.
+
+\bibitem[Rao et~al., 2021]{rao2021look}
+Rao, V.~N., Zhen, X., Hovsepian, K., and Shen, M. (2021).
+\newblock A first look: Towards explainable textvqa models via visual and
+  textual explanations.
+
+\bibitem[Singh et~al., 2019]{singh2019vqa}
+Singh, A., Natarajan, V., Shah, M., Jiang, Y., Chen, X., Batra, D., Parikh, D.,
+  and Rohrbach, M. (2019).
+\newblock Towards vqa models that can read.
 
 \bibitem[Vaswani et~al., 2017]{vaswani2017attention}
 Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.~N.,

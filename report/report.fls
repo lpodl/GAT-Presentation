@@ -1077,6 +1077,19 @@ INPUT c:/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
 INPUT c:/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
 INPUT c:/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
 INPUT c:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -1288,6 +1301,11 @@ INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentati
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/brain_mesh.PNG
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/brain_mesh.PNG
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/brain_mesh.PNG
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/text_3.PNG
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/text_3.PNG
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/text_3.PNG
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/text_3.PNG
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/text_3.PNG
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex
@@ -1299,6 +1317,11 @@ INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentati
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/benchmark_gat_worse.PNG
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/benchmark_gat_worse.PNG
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/benchmark_gat_worse.PNG
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/benchmark_gat_worse.PNG
+INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/benchmark_gat_worse.PNG
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/05_depth.tex
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/05_depth.tex
 INPUT d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/05_depth.tex

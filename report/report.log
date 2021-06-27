@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  25 JUN 2021 00:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  27 JUN 2021 22:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -583,7 +583,9 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 108.
-)) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)) (c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count348
 \l__pdf_internal_box=\box59
@@ -594,22 +596,22 @@ LaTeX Warning: Label `chapter:related_work' multiply defined.
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -678,7 +680,7 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 50.
+Package hyperref Info: Link coloring ON on input line 52.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -688,9 +690,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count355
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
  (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.out) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
@@ -704,17 +706,7 @@ Package pdftex.def Info: img/logo.png  used on input line 7.
  [1
 
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/logo.png>]) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/01_introduction.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--68
-
- []
-
-(d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/02_gat.tex
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/logo.png>]) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/01_introduction.tex) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/02_gat.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -722,46 +714,25 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<img/multi_head.png, id=29, 1039.885pt x 673.51625pt>
-File: img/multi_head.png Graphic file (type png)
-<use img/multi_head.png>
-Package pdftex.def Info: img/multi_head.png  used on input line 10.
-(pdftex.def)             Requested size: 213.39568pt x 138.20532pt.
- [1
+) [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
-
- []
-
-) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/03_applications.tex
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-[2 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/multi_head.png (PNG copy)>]
+<img/multi_head.png, id=50, 1039.885pt x 673.51625pt>
+File: img/multi_head.png Graphic file (type png)
+<use img/multi_head.png>
+Package pdftex.def Info: img/multi_head.png  used on input line 11.
+(pdftex.def)             Requested size: 213.39568pt x 138.20532pt.
+) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/03_applications.tex [2 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/multi_head.png (PNG copy)>]
 <img/brain_mesh.PNG, id=62, 1196.47pt x 857.70438pt>
 File: img/brain_mesh.PNG Graphic file (type png)
 <use img/brain_mesh.PNG>
 Package pdftex.def Info: img/brain_mesh.PNG  used on input line 13.
 (pdftex.def)             Requested size: 320.0935pt x 229.4631pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 17--78
 
+Underfull \hbox (badness 7777) in paragraph at lines 14--14
+[]\OT1/cmr/m/n/10.95 Figure 2: |Qual-i-ta-tive area par-cel-la-tion re-sults for two test set sub-jects.
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--78
-
- []
-
-(d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex [3 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/brain_mesh.PNG>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -769,36 +740,42 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[4])
-Underfull \hbox (badness 10000) in paragraph at lines 15--83
+[3 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/brain_mesh.PNG>]
+<img/text_3.PNG, id=74, 774.895pt x 481.8pt>
+File: img/text_3.PNG Graphic file (type png)
+<use img/text_3.PNG>
+Package pdftex.def Info: img/text_3.PNG  used on input line 27.
+(pdftex.def)             Requested size: 320.0935pt x 199.0243pt.
+) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex [4 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/text_3.PNG>]
+<img/benchmark_gat_worse.PNG, id=89, 462.528pt x 203.5605pt>
+File: img/benchmark_gat_worse.PNG Graphic file (type png)
+<use img/benchmark_gat_worse.PNG>
+Package pdftex.def Info: img/benchmark_gat_worse.PNG  used on input line 11.
+(pdftex.def)             Requested size: 405.45047pt x 178.45044pt.
 
- []
 
-(d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/05_depth.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--88
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- []
-
-[5] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.bbl) [6] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.aux)
+) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/05_depth.tex) [5] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.bbl) [6 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/benchmark_gat_worse.PNG>] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: F2257E487BB8F9CF347870157A3552FA;46.
+(rerunfilecheck)             Checksum: AADBD6C91D237D699F68AF615D61E99E;47.
  ) 
 Here is how much of TeX's memory you used:
- 15884 strings out of 479307
- 245584 string characters out of 5871290
- 666891 words of memory out of 5000000
- 32699 multiletter control sequences out of 15000+600000
+ 15930 strings out of 479307
+ 246594 string characters out of 5871290
+ 665973 words of memory out of 5000000
+ 32735 multiletter control sequences out of 15000+600000
  412409 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,12n,102p,1833b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102i,11n,102p,1833b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.pdf" (7 pages, 1943734 bytes).
+Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.pdf" (7 pages, 3321667 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 24 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 34 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -21,13 +21,14 @@
 \usepackage[toc,page]{appendix}
 \usepackage[english]{babel}
 \usepackage{etoolbox}
+\usepackage{parskip}
 
 % no new page for each chapter
 \makeatletter
 \patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
 \makeatother
 % no caption prefix
-\captionsetup[figure]{labelformat=empty}
+%\captionsetup[figure]{labelformat=empty}
 % no-indented paragraphs
 \setlength{\parindent}{0pt}
 % link colors
@@ -37,12 +38,13 @@
 \pagestyle{fancy}
 \fancyhead{}
 \fancyhead[RO]{\nouppercase{\leftmark}}
-\renewcommand{\headrulewidth}{0.4pt}
+% no(!) rule on top of the page
+\renewcommand{\headrulewidth}{0pt}
 
 % change chapter title spacing
 \titleformat{\chapter}[display]
 {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
-\titlespacing*{\chapter}{0pt}{0pt}{20pt}
+\titlespacing*{\chapter}{0pt}{0pt}{15pt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Document begins here %%
@@ -79,12 +81,12 @@
 \setstretch{1.0}
 \chapter*{Benchmarking GNNs}
 \setstretch{1.25}
-\input{chapters/04_benchmarks} \\
+\input{chapters/04_benchmarks}
 
 \setstretch{1.0}
 \chapter*{Going deep with GNNs}
 \setstretch{1.25}
-\input{chapters/05_depth} \\ 
+\input{chapters/05_depth}
 
 \newpage
 \setstretch{1.0}
