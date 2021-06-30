@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  27 JUN 2021 22:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  1 JUL 2021 01:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -585,33 +585,47 @@ Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 108.
 )) (c:/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
+) (c:/texlive/2020/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks41
+\footnotemargin=\dimen199
+\c@pp@next@reset=\count348
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
 ) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count348
+\l__kernel_color_stack_int=\count349
 \l__pdf_internal_box=\box59
 ) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.aux
+
+LaTeX Warning: Label `chapter:related_work' multiply defined.
+
 
 LaTeX Warning: Label `chapter:related_work' multiply defined.
 
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -649,17 +663,17 @@ LaTeX Font Info:    ... okay on input line 52.
 
 (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count349
-\scratchdimen=\dimen199
+\scratchcounter=\count350
+\scratchdimen=\dimen256
 \scratchbox=\box60
-\nofMPsegments=\count350
-\nofMParguments=\count351
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count352
-\MPscratchDim=\dimen256
-\MPnumerator=\count353
-\makeMPintoPDFobject=\count354
-\everyMPtoPDFconversion=\toks42
+\nofMPsegments=\count351
+\nofMParguments=\count352
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count353
+\MPscratchDim=\dimen257
+\MPnumerator=\count354
+\makeMPintoPDFobject=\count355
+\everyMPtoPDFconversion=\toks43
 ) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  (c:/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
@@ -680,7 +694,7 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 52.
+Package hyperref Info: Link coloring ON on input line 53.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -688,11 +702,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count355
+\c@section@level=\count356
 )
-LaTeX Info: Redefining \ref on input line 52.
-LaTeX Info: Redefining \pageref on input line 52.
-LaTeX Info: Redefining \nameref on input line 52.
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
  (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.out) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
@@ -747,35 +761,55 @@ File: img/text_3.PNG Graphic file (type png)
 Package pdftex.def Info: img/text_3.PNG  used on input line 27.
 (pdftex.def)             Requested size: 320.0935pt x 199.0243pt.
 ) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/04_benchmarks.tex [4 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/text_3.PNG>]
-<img/benchmark_gat_worse.PNG, id=89, 462.528pt x 203.5605pt>
+<img/benchmark_gat_worse.PNG, id=91, 458.9145pt x 202.5969pt>
 File: img/benchmark_gat_worse.PNG Graphic file (type png)
 <use img/benchmark_gat_worse.PNG>
-Package pdftex.def Info: img/benchmark_gat_worse.PNG  used on input line 11.
-(pdftex.def)             Requested size: 405.45047pt x 178.45044pt.
+Package pdftex.def Info: img/benchmark_gat_worse.PNG  used on input line 14.
+(pdftex.def)             Requested size: 422.52577pt x 186.5336pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/05_depth.tex) [5] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.bbl) [6 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/benchmark_gat_worse.PNG>] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.aux)
+) (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/05_depth.tex [5]
+<img/bottleneck.png, id=108, 1079.53313pt x 715.17188pt>
+File: img/bottleneck.png Graphic file (type png)
+<use img/bottleneck.png>
+Package pdftex.def Info: img/bottleneck.png  used on input line 11.
+(pdftex.def)             Requested size: 320.0935pt x 212.05421pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/benchmark_gat_worse.PNG>] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/chapters/06_conclusion.tex) [7 <d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/img/bottleneck.png>] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.bbl) [8] (d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: AADBD6C91D237D699F68AF615D61E99E;47.
+(rerunfilecheck)             Checksum: 487629AFEB61A8D10B0C3B757071D541;47.
  ) 
 Here is how much of TeX's memory you used:
- 15930 strings out of 479307
- 246594 string characters out of 5871290
- 665973 words of memory out of 5000000
- 32735 multiletter control sequences out of 15000+600000
- 412409 words of font info for 59 fonts, out of 8000000 for 9000
+ 16080 strings out of 479307
+ 249096 string characters out of 5871290
+ 668303 words of memory out of 5000000
+ 32859 multiletter control sequences out of 15000+600000
+ 415561 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,11n,102p,1833b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.pdf" (7 pages, 3321667 bytes).
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
+
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/report/report.pdf" (9 pages, 4007220 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 34 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 210 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 39 words of extra memory for PDF output out of 10000 (max. 10000000)
 

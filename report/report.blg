@@ -4,45 +4,45 @@ The top-level auxiliary file: report.aux
 The style file: apalike.bst
 Database file #1: references.bib
 Warning--empty booktitle in Cucurull2018ConvolutionalNN
-You've used 9 entries,
+You've used 13 entries,
             1935 wiz_defined-function locations,
-            505 strings with 5367 characters,
-and the built_in function-call counts, 3751 in all, are:
-= -- 324
-> -- 317
-< -- 0
-+ -- 118
-- -- 116
-* -- 352
-:= -- 727
-add.period$ -- 18
-call.type$ -- 9
-change.case$ -- 103
-chr.to.int$ -- 9
-cite$ -- 10
-duplicate$ -- 97
-empty$ -- 148
-format.name$ -- 125
-if$ -- 656
+            518 strings with 5834 characters,
+and the built_in function-call counts, 4915 in all, are:
+= -- 439
+> -- 379
+< -- 3
++ -- 138
+- -- 136
+* -- 444
+:= -- 951
+add.period$ -- 26
+call.type$ -- 13
+change.case$ -- 133
+chr.to.int$ -- 13
+cite$ -- 14
+duplicate$ -- 137
+empty$ -- 208
+format.name$ -- 155
+if$ -- 868
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 1
-newline$ -- 39
-num.names$ -- 27
-pop$ -- 101
+newline$ -- 55
+num.names$ -- 39
+pop$ -- 124
 preamble$ -- 1
-purify$ -- 103
+purify$ -- 133
 quote$ -- 0
-skip$ -- 74
+skip$ -- 109
 stack$ -- 0
-substring$ -- 110
+substring$ -- 158
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 54
+type$ -- 78
 warning$ -- 1
-while$ -- 18
+while$ -- 26
 width$ -- 0
-write$ -- 92
+write$ -- 132
 (There was 1 warning)
