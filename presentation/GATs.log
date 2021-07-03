@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  23 JUN 2021 22:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.10)  1 JUL 2021 20:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1506,7 +1506,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  131i,19n,132p,530b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.pdf" (32 pages, 10197047 bytes).
+Output written on "d:/Google Drive/Uni/Vorlesungen/ML and Optimization Seminar/GAT-Presentation/presentation/GATs.pdf" (32 pages, 10196905 bytes).
 PDF statistics:
  586 PDF objects out of 1000 (max. 8388607)
  478 compressed objects within 5 object streams
